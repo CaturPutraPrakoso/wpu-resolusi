@@ -2,4 +2,4 @@ Halo pak dika, salam kenal nama saya Agung Widyatmoko dari Jakarta
 
 Request video di webunpas: 
 - konten laravel 8
-- dan vue dasar
+- serta vue dasar
