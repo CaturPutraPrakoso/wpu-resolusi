@@ -11,3 +11,4 @@ RENCANA KONTEN WPU
 - Inteview
 - Vlogs
 - Python
+Ngoding mulu kapan nih bikin konten sistem analisis nya, biar ga berantakan projek nya dan berkelanjutan, mantap Pa
